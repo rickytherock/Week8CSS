@@ -1,0 +1,145 @@
+body {
+    background-color: black ;
+    margin: 0px;
+}
+h1 {
+    color: white ;
+    font-family: fantasy;
+    margin: auto;
+    padding: 1px;
+    font-size: 70px ;
+    letter-spacing: 0.5em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+    /* #contactlist {
+    background-color: gray; 
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    font-size: 20px ;
+
+} */
+table {
+    color: white;
+    font-family: fantasy;
+    margin: auto;
+    width: 100%;
+    padding: 1%;
+    background-color: gray; 
+    border-style: solid;
+    border-color: white;
+    border-radius: 2px;
+    font-size: 20px ;
+
+}
+
+th, td  {
+text-align: center;
+
+}
+
+
+
+
+a {
+    color: white;
+    font-family: fantasy ;
+    font-weight: 500;
+    font-size: large;
+    text-decoration: none ;
+    margin: left;
+    margin: right;
+    width: 15%;
+    padding: 10px;
+
+}
+ 
+ 
+
+
+a:hover {
+    color: gold;
+    
+}
+.firstpage {
+    color: white;
+    font-family: fantasy;
+    font-weight: 500;
+    margin: auto;
+    width: 15%;
+    padding: 10px;
+}
+
+
+
+button {
+    color: rgb(31, 29, 29);
+}
+
+form {
+    margin: auto;
+    width: 20%;
+    padding: 10px;
+}
+
+p {
+   text-align: center;
+    
+}
+
+#front {
+    color: white ;
+    font-family:monospace;
+
+    padding: 0px;
+    font-size: 70px ;
+    letter-spacing: 0.5em;
+    text-align: center;
+    text-transform: uppercase;
+    background-image:url(https://pa1.narvii.com/6640/0a5a609fc963c8909fc814c9fec8852875e6073d_hq.gif);
+    background-size: 100%;
+    background-position: center;
+    border: 5px solid;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+
+
+
+
+#dori {
+    color: white;
+    background-color: rgb(0, 0, 0); 
+    border-style: solid;
+    border-color:rgb(0, 0, 0);
+    font-size: 20px ;
+    font-weight: bolder;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#jap {
+    color: white;
+    font-size: 25px;
+    
+}
+
+#para {
+    color:white;
+    font-family:monospace ;
+    line-height: 150%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+}
+
+h3 { 
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.1em;
+    border-top: solid;
+    border-color:rgb(255, 255, 255);
+    padding-top: 10px;
+}
